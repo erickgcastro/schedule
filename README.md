@@ -43,5 +43,4 @@ O sistema de agendamento possui as seguintes funcionalidades:
 - Cadastro de serviços: Os administradores podem cadastrar novos serviços no sistema.
 - Gerenciamento de agendamentos: Os administradores têm acesso a uma interface especial para visualizar e gerenciar os agendamentos realizados.
 - Verificação de disponibilidade: O sistema verifica a disponibilidade dos dias e horários para garantir que não haja conflitos nos agendamentos.
-- Notificações: Os usuários recebem notificações por e-mail ou SMS para lembrá-los dos agendamentos próximos.
-- Relatórios: Os administradores podem gerar relatórios com estatísticas e informações sobre os agendamentos realizados.
+- Relatórios: Os administradores tem acesso a página de relatórios com estatísticas e informações sobre os agendamentos realizados.
