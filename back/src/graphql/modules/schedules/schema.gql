@@ -1,0 +1,25 @@
+type Schedules {
+  _id: ID!
+  createdBy: User!
+  service: Service!
+  date: String!
+  status: String!
+}
+
+input SchedulesInput {
+  service: ID
+  date: String
+}
+
+type Query {
+  schedules(date: String, page: Int, service: ID, status: [String!]): [Schedules!]
+  getSchedule(id: ID!): Schedules
+  schedulesByService(id: ID): [Schedules]
+  schedulesByUser(id: ID): [Schedules]
+}
+
+type Mutation {
+  createSchedule(data: SchedulesInput): Schedules!
+  updateStatusSchedule(id: ID!, data: String): Schedules!
+  deleteSchedule(id: ID): Boolean!
+}

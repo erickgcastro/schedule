@@ -1,0 +1,31 @@
+type Service {
+  _id: ID!
+  name: String!
+  description: String
+  price: Float!
+  duration: Float!
+}
+
+type ServiceScheduleFilter {
+  _id: ID!
+  name: String!
+}
+
+input ServiceInput {
+  id: ID
+  name: String
+  price: Float
+  description: String
+  duration: Float
+}
+
+type Query {
+  services: [Service!]!
+  getService(id: ID!): Service!
+  servicesBySchedules: [ServiceScheduleFilter!]!
+}
+
+type Mutation {
+  createService(data: ServiceInput!): Service!
+  deleteService(id: ID!): Boolean!
+}

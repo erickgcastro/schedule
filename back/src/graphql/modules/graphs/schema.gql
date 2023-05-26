@@ -1,0 +1,11 @@
+type GraphResponse {
+  name: String!
+  count: Int!
+}
+
+type Query {
+  graphUsers: [GraphResponse!]!
+  graphSchedules: [GraphResponse!]!
+  graphMoney: [GraphResponse!]!
+  graphServices: [GraphResponse!]!
+}
