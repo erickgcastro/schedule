@@ -35,6 +35,12 @@ Para executar o projeto localmente em sua máquina, siga as etapas abaixo:
    http://localhost:3000
    ```
 
+## Acesso de Administrador
+```
+email: adm@adm.com
+senha: adm
+```
+
 ## Funcionalidades
 
 O sistema de agendamento possui as seguintes funcionalidades:
