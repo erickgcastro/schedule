@@ -1,4 +1,4 @@
-# Sistema de Agendamento
+# Sistema de Agendamentos
 
 Esta é uma plataforma de agendamento projetada para simplificar o processo de reserva de serviços. Os usuários podem facilmente agendar datas e escolher serviços específicos, proporcionando uma experiência conveniente e personalizada. Além disso, os administradores têm a capacidade de gerenciar eficientemente esses agendamentos e os serviços oferecidos, garantindo uma organização eficaz e uma experiência fluida para todos os envolvidos
 
