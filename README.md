@@ -1,6 +1,6 @@
-# Projeto de Sistema de Agendamento
+# Sistema de Agendamento
 
-Este é um projeto de um sistema de agendamento, onde as pessoas podem agendar um dia e escolher um serviço específico. Além disso, o sistema permite que administradores gerenciem esses agendamentos e os serviços.
+Esta é uma plataforma de agendamento projetada para simplificar o processo de reserva de serviços. Os usuários podem facilmente agendar datas e escolher serviços específicos, proporcionando uma experiência conveniente e personalizada. Além disso, os administradores têm a capacidade de gerenciar eficientemente esses agendamentos e os serviços oferecidos, garantindo uma organização eficaz e uma experiência fluida para todos os envolvidos
 
 ## Executando o Projeto Localmente
 
