@@ -2,6 +2,10 @@
 
 Esta é uma plataforma de agendamento projetada para simplificar o processo de reserva de serviços. Os usuários podem facilmente agendar datas e escolher serviços específicos, proporcionando uma experiência conveniente e personalizada. Além disso, os administradores têm a capacidade de gerenciar eficientemente esses agendamentos e os serviços oferecidos, garantindo uma organização eficaz e uma experiência fluida para todos os envolvidos
 
+```
+Atenção: O projeto foi originalmente criado em 2022 e não segue os padrões recomendados. Portanto, não deve ser utilizado de forma profissional. Este é apenas um registro do meu aprendizado em programação.
+```
+
 ## Executando o Projeto Localmente
 
 Para executar o projeto localmente em sua máquina, siga as etapas abaixo:
@@ -36,6 +40,7 @@ Para executar o projeto localmente em sua máquina, siga as etapas abaixo:
    ```
 
 ## Acesso de Administrador
+
 ```
 email: adm@adm.com
 senha: adm
